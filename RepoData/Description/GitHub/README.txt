@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+💻️🌐️🌳️🌋️📖️ The official documentation source repository for Bliss Browser Obsidian mode, adding in social media web browser features in a similar way to RockMelt, while being free, open source, and privacy-aware
